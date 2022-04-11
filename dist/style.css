@@ -467,3 +467,13 @@ Ensure the default browser behavior of the `hidden` attribute.
   --tw-backdrop-saturate:  ;
   --tw-backdrop-sepia:  ;
 }
+
+.bg-one {
+  --tw-bg-opacity: 1;
+  background-color: rgb(1 36 103 / var(--tw-bg-opacity));
+}
+
+.text-four {
+  --tw-text-opacity: 1;
+  color: rgb(255 218 185 / var(--tw-text-opacity));
+}
